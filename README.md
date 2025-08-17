@@ -63,6 +63,4 @@ El análisis combina múltiples métricas: ventas totales, calificación promedi
 ---
 
 ## Autor
-
-- **Tu Nombre**  
-  Proyecto de análisis de desempeño de tiendas para toma de decisiones estratégicas.
+Jose Carlos Alvarez Onofre
